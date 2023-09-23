@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test_android</string>
+    <string name="carrier_name">中国电信</string>
+</resources>
